@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib scikit-learn statsmodels seaborn
 1. **Clone the repository**
    ```bash
    git clone https://github.com/aravinds-py/dogecoin-price-prediction.git
-   cd dogecoin-price-prediction-ml
+   cd dogecoin-price-prediction
    ```
 
 2. **Ensure the dataset file is present**
@@ -70,7 +70,6 @@ pip install pandas numpy matplotlib scikit-learn statsmodels seaborn
 
 ### 5. 🧠 Model Training
 - **Random Forest Regressor**: Train and predict with ensemble trees.
-- (SARIMAX block in extended notebook: for timeseries baseline.)
 
 ### 6. 📈 Evaluation
 - Compute **Mean Absolute Error (MAE)**, **Root Mean Squared Error (RMSE)**, and **R² Score** to assess predictive accuracy.
