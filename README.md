@@ -4,7 +4,7 @@ Welcome to the **Dogecoin Price Prediction** project! This repository demonstrat
 
 ## 📚 Project Overview
 
-- **Goal:** Predict closing prices of Dogecoin using historical price & volume data, custom feature engineering, and machine learning models (Random Forest & SARIMAX).
+- **Goal:** Predict closing prices of Dogecoin using historical price & volume data, custom feature engineering, and machine learning models "Random Forest".
 - **Main File:** [`Dogecoin.ipynb`](./Dogecoin.ipynb)  
   A well-commented and modular Jupyter Notebook guiding you through the entire workflow, from data loading to model evaluation and visualization.
 
